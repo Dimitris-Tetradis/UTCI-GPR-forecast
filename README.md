@@ -9,7 +9,7 @@ diploma thesis.
 | | What it does | Live |
 |---|---|---|
 | **Version A — Analytic dashboard** | Computes UTCI with the official formula (`pythermalcomfort`) over a 24h forecast, with a sun/shade MRT toggle and city search. | https://utci--dashboard.streamlit.app |
-| **Version B — GPR forecaster** | Predicts UTCI with a Gaussian Process Regression model retrained from my thesis, then compares it against the analytic formula with a quantified uncertainty band. | *(this repo — set as the Streamlit main file)* |
+| **Version B — GPR forecaster** | Predicts UTCI with a Gaussian Process Regression model retrained from my thesis, then compares it against the analytic formula with a quantified uncertainty band. | https://utci-gpr-forecast.streamlit.app |
 
 ---
 
